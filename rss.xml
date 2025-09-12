@@ -5,14 +5,14 @@
     <link>https://ai.hubtoday.app/</link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 12 Sep 2025 23:11:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 23:55:12 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.justlikemaki.workers.dev/rss" rel="self" type="application/rss+xml" />
     
         <item>
           <title><![CDATA[2025-09-13日刊]]></title>
           <link>https://ai.hubtoday.app//2025-09/2025-09-13/</link>
           <guid>https://ai.hubtoday.app//2025-09/2025-09-13/</guid>
-          <pubDate>Sat, 13 Sep 2025 07:11:56 GMT</pubDate>
+          <pubDate>Sat, 13 Sep 2025 07:55:11 GMT</pubDate>
           <content:encoded><![CDATA[<h2>AI资讯日报 2025/9/13</h2><blockquote><p><code>AI资讯</code> | <code>每日早读</code> | <code>全网数据聚合</code> | <code>前沿科学探索</code> | <code>行业自由发声</code> | <code>开源创新力量</code> | <code>AI与人类未来</code> | <a href="https://ai.hubtoday.app/">访问网页版↗️</a> | <a href="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/main/docs/images/wechat.png">进群交流🤙</a></p></blockquote><h3><strong>今日摘要</strong></h3><pre><code>字节跳动发布Seedream 4.0，在文生图和图像编辑权威榜单登顶。
 MiniMax推出Music 1.5，能够直接生成长达四分钟的完整歌曲。
 蚂蚁集团等联合发布LLaDA-MoE，是业界首个原生MoE扩散模型。
