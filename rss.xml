@@ -5,14 +5,14 @@
     <link>https://ai.hubtoday.app/</link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 14 Sep 2025 23:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 23:55:09 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.justlikemaki.workers.dev/rss" rel="self" type="application/rss+xml" />
     
         <item>
           <title><![CDATA[2025-09-15日刊]]></title>
           <link>https://ai.hubtoday.app//2025-09/2025-09-15/</link>
           <guid>https://ai.hubtoday.app//2025-09/2025-09-15/</guid>
-          <pubDate>Mon, 15 Sep 2025 07:11:42 GMT</pubDate>
+          <pubDate>Mon, 15 Sep 2025 07:55:08 GMT</pubDate>
           <content:encoded><![CDATA[<h2>AI资讯日报 2025/9/15</h2><blockquote><p><code>AI资讯</code> | <code>每日早读</code> | <code>全网数据聚合</code> | <code>前沿科学探索</code> | <code>行业自由发声</code> | <code>开源创新力量</code> | <code>AI与人类未来</code> | <a href="https://ai.hubtoday.app/">访问网页版↗️</a> | <a href="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/main/docs/images/wechat.png">进群交流🤙</a></p></blockquote><h3><strong>今日摘要</strong></h3><pre><code>小红书发布了开源对话模型FireRedTTS-2，旨在提升AI语音的真实感。
 新的UQ基准则通过真实科学难题来考验大模型，揭示了当前AI的局限性。
 OpenAI研究称根除AI幻觉或无法实现，且可能扼杀模型的创造力与流畅性。
