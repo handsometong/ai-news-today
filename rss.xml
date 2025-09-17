@@ -5,14 +5,14 @@
     <link>https://ai.hubtoday.app/</link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 17 Sep 2025 23:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 23:55:12 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.justlikemaki.workers.dev/rss" rel="self" type="application/rss+xml" />
     
         <item>
           <title><![CDATA[2025-09-18日刊]]></title>
           <link>https://ai.hubtoday.app//2025-09/2025-09-18/</link>
           <guid>https://ai.hubtoday.app//2025-09/2025-09-18/</guid>
-          <pubDate>Thu, 18 Sep 2025 07:13:06 GMT</pubDate>
+          <pubDate>Thu, 18 Sep 2025 07:55:11 GMT</pubDate>
           <content:encoded><![CDATA[<h2>AI资讯日报 2025/9/18</h2><blockquote><p><code>AI资讯</code> | <code>每日早读</code> | <code>全网数据聚合</code> | <code>前沿科学探索</code> | <code>行业自由发声</code> | <code>开源创新力量</code> | <code>AI与人类未来</code> | <a href="https://ai.hubtoday.app/">访问网页版↗️</a> | <a href="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/main/docs/images/wechat.png">进群交流🤙</a></p></blockquote><h3><strong>今日摘要</strong></h3><pre><code>Figma和Gamma等工具集成AI，通过自然语言指令颠覆了传统的设计与内容创作流程。
 李飞飞团队发布可生成宏大3D世界的模型，同时新型视觉攻击暴露了多模态AI安全漏洞。
 谷歌联合巨头为AI智能体建立支付协议，大模型开源领域PyTorch成为主导，竞争激烈。
