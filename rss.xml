@@ -5,14 +5,14 @@
     <link>https://ai.hubtoday.app/</link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 27 Sep 2025 23:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 23:55:10 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.justlikemaki.workers.dev/rss" rel="self" type="application/rss+xml" />
     
         <item>
           <title><![CDATA[2025-09-28日刊]]></title>
           <link>https://ai.hubtoday.app//2025-09/2025-09-28/</link>
           <guid>https://ai.hubtoday.app//2025-09/2025-09-28/</guid>
-          <pubDate>Sun, 28 Sep 2025 07:12:12 GMT</pubDate>
+          <pubDate>Sun, 28 Sep 2025 07:55:09 GMT</pubDate>
           <content:encoded><![CDATA[<h2>AI资讯日报 2025/9/28</h2><blockquote><p><code>AI资讯</code> | <code>每日早读</code> | <code>全网数据聚合</code> | <code>前沿科学探索</code> | <code>行业自由发声</code> | <code>开源创新力量</code> | <code>AI与人类未来</code> | <a href="https://ai.hubtoday.app/">访问网页版↗️</a> | <a href="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/main/docs/images/wechat.png">进群交流🤙</a></p></blockquote><h3><strong>今日摘要</strong></h3><pre><code>身份验证工具Auth.js官宣合并，谷歌Vids则开启数字人视频生成测试。
 传闻OpenAI与谷歌将推AI浏览器，冯诺依曼架构被指成AI发展瓶颈。
 行业风向转向AI实用主义，Token消耗量成为衡量发展的新关键流量指标。
