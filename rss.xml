@@ -5,14 +5,14 @@
     <link>https://ai.hubtoday.app/</link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 09 Nov 2025 23:12:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 23:55:11 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.justlikemaki.workers.dev/rss" rel="self" type="application/rss+xml" />
     
         <item>
           <title><![CDATA[2025-11-10日刊]]></title>
           <link>https://ai.hubtoday.app//2025-11/2025-11-10/</link>
           <guid>https://ai.hubtoday.app//2025-11/2025-11-10/</guid>
-          <pubDate>Mon, 10 Nov 2025 07:12:21 GMT</pubDate>
+          <pubDate>Mon, 10 Nov 2025 07:55:09 GMT</pubDate>
           <content:encoded><![CDATA[<h2>AI资讯日报 2025/11/10</h2><blockquote><p><code>AI资讯</code> | <code>每日早读</code> | <code>全网数据聚合</code> | <code>前沿科学探索</code> | <code>行业自由发声</code> | <code>开源创新力量</code> | <code>AI与人类未来</code> | <a href="https://ai.hubtoday.app/">访问网页版↗️</a> | <a href="https://source.hubtoday.app/logo/wechat-qun.jpg">进群交流🤙</a></p></blockquote><h3><strong>今日摘要</strong></h3><pre><code>阶跃科技发布30亿参数音频模型Step-Audio-EditX，可零样本克隆语音。
 该模型还能进行多轮迭代式的情绪和风格编辑，并支持模仿方言。
 新模型Nano Banana 2展现了惊人指令理解力，能精确生成图像细节。
